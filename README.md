@@ -32,7 +32,7 @@ docker pull tazleef/tf2.0.0-cv-keras2.3.1-imgaug:latest
 
 Due to privacy policy, we are unable to share our clinical dataset. However, we have included a few sample cases for reference. Format your centre's dataset in the same way and set the filepath and training parameters in `train.py`. 
 
-To train the model, run `train.py` with . 
+To train the model, run `train.py`. 
 
 This code can be used for other 3D image to image translation task by modifying the network architechtures according to the data dimensions. 
 
