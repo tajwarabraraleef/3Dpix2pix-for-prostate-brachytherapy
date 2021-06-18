@@ -2,7 +2,8 @@
 
 Keras/Tensorflow implementation of 3D pix2pix for automating seed planning for prostate brachytherapy. This work is published in International Journal of Computer Assisted Radiology and Surgery (2021) and will be presented in [IPCAI 2021](http://www.ipcai.org/).
 
-[Paper](https://rdcu.be/cmKMD) | [Presentation](https://youtu.be/F5kOCjiZpR4) 
+<a href="https://rdcu.be/cmKMD" target="_blank">Paper |</a>
+<a href="https://youtu.be/F5kOCjiZpR4" target="_blank">Presentation |</a>
 
 <p align="left">
 <a href="#"><img src="assets/model.jpg" width="100%"></a>
