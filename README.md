@@ -1,6 +1,6 @@
 # Centre-specific autonomous treatment plans for prostate brachytherapy using cGANs
 
-Keras/Tensorflow implementation of 3D pix2pix for automating seed planning for prostate brachytherapy. This work is published in International Journal of Computer Assisted Radiology and Surgery (2021) and will be presented in [IPCAI 2021](http://www.ipcai.org/).
+Keras/Tensorflow implementation of 3D pix2pix for automating treatment planning for low-dose-rate prostate brachytherapy. This work has been published in International Journal of Computer Assisted Radiology and Surgery (2021) and was presented in [IPCAI 2021](http://www.ipcai.org/).
 
 <a href="https://rdcu.be/cmKMD" target="_blank">Paper |</a>
 <a href="https://youtu.be/F5kOCjiZpR4" target="_blank" rel="noopener noreferrer">Presentation</a>
@@ -34,7 +34,7 @@ Due to privacy policy, we are unable to share our clinical dataset. However, we 
 
 To train the model, run `train.py`. 
 
-This code can be used for other 3D image to image translation task by modifying the network architechtures according to the data dimensions. 
+This code can be used for other 3D image to image translation task by modifying the network architectures according to the data dimensions. 
 
 ### Citation
 ```
@@ -49,7 +49,7 @@ This code can be used for other 3D image to image translation task by modifying 
 ```
 ### Contact 
 
-If you face any problem using this code then please create an issue in this repository or contact me at [tajwaraleef@ece.ubc.ca](mailto:tajwaraleef@ece.ubc.ca?subject=[GitHub]%3Dpix2pix%20Issue%20)
+If you face any problem using this code then please create an issue in this repository or contact me at [tajwaraleef@ece.ubc.ca](mailto:tajwaraleef@ece.ubc.ca?subject=[GitHub]%203Dpix2pix%20Issue%20)
 
 ### Acknowledgements
 
