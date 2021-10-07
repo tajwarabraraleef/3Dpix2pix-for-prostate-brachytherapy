@@ -36,6 +36,8 @@ To train the model, run `train.py`.
 
 This code can be used for other 3D image to image translation task by modifying the network architectures according to the data dimensions. 
 
+A follow-up of this work can be found here.
+
 ### Citation
 ```
 @article{aleef2021centre,
